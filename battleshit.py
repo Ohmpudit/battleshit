@@ -3,6 +3,7 @@ from enum import Enum
 
 Class Direction(Enum):
 
+#object ship
 Class Ship:
 
 
